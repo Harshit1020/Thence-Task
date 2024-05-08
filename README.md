@@ -1,33 +1,49 @@
-# Thence Task
+## Thence Assignment
 
-task
+Thence Assignment is a platform designed to market staff augmentation services to various companies, with a primary focus on targeting unicorns. The platform aims to provide a high-quality user experience, focusing on both aesthetics and functionality.
 
-## Installation
+### Getting Started
 
-Clone the project form github into your local machine
+To get started with Thence Assignment, follow these steps:
 
-```bash
-  git clone https://github.com/shrikant9024/thence-task.git
-```
+1. Clone the project repository:
 
-cd into the project
+   ```bash
+   git clone (https://github.com/Harshit1020/Thence-Task.git)
+   ```
 
-```bash
-  cd thence
-```
+2. Navigate to the project directory:
 
-Install the dependencies
+   ```bash
+   cd thence-task-main
+   ```
 
-```bash
-  npm i
-```
+3. Install dependencies:
 
-Run the project locally
+   ```bash
+   npm install
+   ```
 
-```bash
- npm run dev
-```
+4. Run the development server:
 
-```bash
-project is running lcoally at url: localhost:5173
-```
+   ```bash
+   npm run dev
+   ```
+
+5. Open your browser and visit  [http://localhost:5173/] to view the application.
+
+### Prerequisites
+
+Before running the project, ensure you have Node.js version 18.12.1 installed on your system. You can download Node.js from the official website: [https://nodejs.org/](https://nodejs.org/).
+
+## Features
+
+- Aesthetic and user-friendly interface
+- Targeted towards companies, with a focus on unicorns
+- Provides staff augmentation services
+- High-quality user experience
+
+## Built With
+
+- React.js - Frontend framework
+- Vite - Frontend tooling
